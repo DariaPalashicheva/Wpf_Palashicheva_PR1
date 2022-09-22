@@ -24,5 +24,10 @@ namespace Wpf_Palashicheva_PR1
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Привет, группа 402 ИСП!");
+        }
     }
 }
