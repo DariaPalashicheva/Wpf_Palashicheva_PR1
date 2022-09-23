@@ -67,5 +67,11 @@ namespace Wpf_Palashicheva_PR1
             window7.Show();
         }
 
+        private void Win8_Click(object sender, RoutedEventArgs e)
+        {
+            Window8 window8 = new Window8();
+            window8.Show();
+        }
+
     }
 }
