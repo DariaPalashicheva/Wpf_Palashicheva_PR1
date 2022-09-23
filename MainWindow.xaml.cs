@@ -31,6 +31,17 @@ namespace Wpf_Palashicheva_PR1
                 window1.Show();
         }
 
+        private void Win2_Click(object sender, RoutedEventArgs e)
+        {
+            Window2 window2 = new Window2();
+            window2.Show();
+        }
+
+        private void Win3_Click(object sender, RoutedEventArgs e)
+        {
+            Window3 window3 = new Window3();
+            window3.Show();
+        }
 
     }
 }
