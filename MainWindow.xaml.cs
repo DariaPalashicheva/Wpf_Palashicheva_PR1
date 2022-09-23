@@ -54,5 +54,11 @@ namespace Wpf_Palashicheva_PR1
             Window5 window5 = new Window5();
             window5.Show();
         }
+
+        private void Win6_Click(object sender, RoutedEventArgs e)
+        {
+            Window6 window6 = new Window6();
+            window6.Show();
+        }
     }
 }
